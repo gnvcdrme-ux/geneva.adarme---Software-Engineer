@@ -29,7 +29,7 @@
 
   <!-- Hero -->
   <header class="text-center pt-32 pb-20" id="hero">
-    <img src="C:\Users\Jonathan\Downloads\548737751_1273186034097826_4316469753272241215_n.jpg" alt="C:\Users\Jonathan\Downloads\Geneva files\475412098_2368017006908913_1784568416378653627_n.jpg" class="mx-auto w-40 h-40 rounded-full shadow-lg border-4 border-purple-600" data-aos="zoom-in">
+   <img src="C:\Users\Jonathan\Downloads\548737751_1273186034097826_4316469753272241215_n.jpg" alt="C:\Users\Jonathan\Downloads\Geneva files\475412098_2368017006908913_1784568416378653627_n.jpg" class="mx-auto w-35 h-35 rounded-full shadow-lg border-4 border-purple-600" data-aos="zoom-in">
     <h1 class="text-5xl font-extrabold mt-6 bg-gradient-to-r from-purple-400 to-pink-500 bg-clip-text text-transparent" data-aos="fade-up">Geneva Adarme</h1>
     <p class="text-lg text-gray-300 mt-4" data-aos="fade-up" data-aos-delay="200"> Baliuag, Bulacan 3006, Philippines </p>
 <p class="text-lg text-gray-300 mt-4" data-aos="fade-up" data-aos-delay="200"> Software Engineer </p>

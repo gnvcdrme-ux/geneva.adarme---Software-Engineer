@@ -29,8 +29,12 @@
 
   <!-- Hero -->
   <header class="text-center pt-32 pb-20" id="hero">
-    <img src="https://raw.githubusercontent.com/gnvcdrme-ux/geneva.adarme---Software-Engineer/main/548737751_1273186034097826_4316469753272241215_n.jpg" alt="Geneva Adarme" class="mx-auto w-36 h-36 rounded-full shadow-lg border-4 border-purple-600 object-cover" data-aos="zoom-in">
-    
+    <img src="https://github.com/gnvcdrme-ux/gndrme/blob/main/okk.jpg" 
+  alt="Geneva Adarme" 
+  class="mx-auto w-36 h-36 rounded-full shadow-lg border-4 border-purple-60 object-cover" 
+  data-aos="zoom-out"
+/>
+
     <h1 class="text-5xl font-extrabold mt-6 bg-gradient-to-r from-purple-400 to-pink-500 bg-clip-text text-transparent" data-aos="fade-up">Geneva Adarme</h1>
     
     <p class="text-lg text-gray-300 mt-4" data-aos="fade-up" data-aos-delay="200">Baliuag, Bulacan 3006, Philippines</p>
@@ -44,7 +48,8 @@
     <h2 class="text-3xl font-bold mb-6 text-purple-400" data-aos="fade-right">About Me</h2>
     <p class="leading-relaxed text-gray-300" data-aos="fade-up">
       I am a Software Engineer with experience in customer service, system testing, DevOps, and IT service management. 
-      Currently working at Accenture, I specialize in backend/frontend solutions, project collaboration, and agile delivery. 
+    
+  I specialize in backend/frontend solutions, project collaboration, and agile delivery. 
       My journey from CSR to Software Engineer has equipped me with strong technical and communication skills, making me adaptable and versatile in handling complex challenges.
     </p>
   </section>
@@ -55,19 +60,19 @@
       <h2 class="text-3xl font-bold mb-12 text-purple-400" data-aos="fade-right">Experience</h2>
       <div class="relative border-l border-purple-600">
         <div class="mb-10 ml-6" data-aos="fade-up">
-          <span class="absolute -left-3 w-6 h-6 bg-purple-600 rounded-full"></span>
+          <span class="absolute -left-3 w-6 h-6 small-purple-600 rounded-full"></span>
           <h3 class="text-xl font-bold">Software Engineer</h3>
           <p class="text-purple-400">Accenture • June 2023 - Aug 2025</p>
           <p class="text-gray-300 mt-2">Promoted to Level 11, worked on ChatGPT system testing and Saipem DevOps/ITSM projects, gaining expertise in Azure, Linux, ServiceNow, and Agile methodologies.</p>
         </div>
         <div class="mb-10 ml-6" data-aos="fade-up">
-          <span class="absolute -left-3 w-6 h-6 bg-purple-600 rounded-full"></span>
+          <span class="absolute -left-3 w-6 h-6 small-purple-600 rounded-full"></span>
           <h3 class="text-xl font-bold">Associate Software Engineer</h3>
           <p class="text-purple-400">Accenture • June 2022 - June 2023</p>
           <p class="text-gray-300 mt-2">Contributed to Sony and Honda projects focusing on system testing, programming, and design implementation using Python, JavaScript, HTML, and CTT.</p>
         </div>
         <div class="ml-6" data-aos="fade-up">
-          <span class="absolute -left-3 w-6 h-6 bg-purple-600 rounded-full"></span>
+          <span class="absolute -left-3 w-6 h-6 small-purple-600 rounded-full"></span>
           <h3 class="text-xl font-bold">Customer Service Representative</h3>
           <p class="text-purple-400">Teleperformance • May 2020 - May 2022</p>
           <p class="text-gray-300 mt-2">Developed strong communication and problem-solving skills while delivering high-quality customer support in a fast-paced BPO environment.</p>

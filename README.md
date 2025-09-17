@@ -29,10 +29,13 @@
 
   <!-- Hero -->
   <header class="text-center pt-32 pb-20" id="hero">
-   <img src="C:\Users\Jonathan\Downloads\548737751_1273186034097826_4316469753272241215_n.jpg" alt="C:\Users\Jonathan\Downloads\Geneva files\475412098_2368017006908913_1784568416378653627_n.jpg" class="mx-auto w-35 h-35 rounded-full shadow-lg border-4 border-purple-600" data-aos="zoom-in">
+    <img src="https://raw.githubusercontent.com/gnvcdrme-ux/geneva.adarme---Software-Engineer/main/548737751_1273186034097826_4316469753272241215_n.jpg" alt="Geneva Adarme" class="mx-auto w-36 h-36 rounded-full shadow-lg border-4 border-purple-600 object-cover" data-aos="zoom-in">
+    
     <h1 class="text-5xl font-extrabold mt-6 bg-gradient-to-r from-purple-400 to-pink-500 bg-clip-text text-transparent" data-aos="fade-up">Geneva Adarme</h1>
-    <p class="text-lg text-gray-300 mt-4" data-aos="fade-up" data-aos-delay="200"> Baliuag, Bulacan 3006, Philippines </p>
-<p class="text-lg text-gray-300 mt-4" data-aos="fade-up" data-aos-delay="200"> Software Engineer </p>
+    
+    <p class="text-lg text-gray-300 mt-4" data-aos="fade-up" data-aos-delay="200">Baliuag, Bulacan 3006, Philippines</p>
+    <p class="text-lg text-gray-300 mt-1" data-aos="fade-up" data-aos-delay="300">Software Engineer</p>
+
     <a href="#contact" class="mt-6 inline-block px-6 py-3 bg-purple-600 rounded-full text-white font-semibold hover:bg-purple-500 transition" data-aos="fade-up" data-aos-delay="400">Let’s Connect</a>
   </header>
 
@@ -52,19 +55,19 @@
       <h2 class="text-3xl font-bold mb-12 text-purple-400" data-aos="fade-right">Experience</h2>
       <div class="relative border-l border-purple-600">
         <div class="mb-10 ml-6" data-aos="fade-up">
-          <span class="absolute -left-3 w-6 h-6 small-purple-600 rounded-full"></span>
+          <span class="absolute -left-3 w-6 h-6 bg-purple-600 rounded-full"></span>
           <h3 class="text-xl font-bold">Software Engineer</h3>
           <p class="text-purple-400">Accenture • June 2023 - Aug 2025</p>
           <p class="text-gray-300 mt-2">Promoted to Level 11, worked on ChatGPT system testing and Saipem DevOps/ITSM projects, gaining expertise in Azure, Linux, ServiceNow, and Agile methodologies.</p>
         </div>
         <div class="mb-10 ml-6" data-aos="fade-up">
-          <span class="absolute -left-3 w-6 h-6 small-purple-600 rounded-full"></span>
+          <span class="absolute -left-3 w-6 h-6 bg-purple-600 rounded-full"></span>
           <h3 class="text-xl font-bold">Associate Software Engineer</h3>
           <p class="text-purple-400">Accenture • June 2022 - June 2023</p>
           <p class="text-gray-300 mt-2">Contributed to Sony and Honda projects focusing on system testing, programming, and design implementation using Python, JavaScript, HTML, and CTT.</p>
         </div>
         <div class="ml-6" data-aos="fade-up">
-          <span class="absolute -left-3 w-6 h-6 small-purple-600 rounded-full"></span>
+          <span class="absolute -left-3 w-6 h-6 bg-purple-600 rounded-full"></span>
           <h3 class="text-xl font-bold">Customer Service Representative</h3>
           <p class="text-purple-400">Teleperformance • May 2020 - May 2022</p>
           <p class="text-gray-300 mt-2">Developed strong communication and problem-solving skills while delivering high-quality customer support in a fast-paced BPO environment.</p>
@@ -100,7 +103,9 @@
   <section id="techstack" class="bg-gray-900 py-20">
     <div class="max-w-4xl mx-auto px-6">
       <h2 class="text-3xl font-bold mb-6 text-purple-400" data-aos="fade-right">Tech Stack</h2>
-      <p class="text-gray-300" data-aos="fade-up">Python, Java, C++, JavaScript, SQL, HTML, Visual Studio, Agile, DevOps, SAP, Linux, ServiceNow, Node.js, React, PHP</p>
+      <p class="text-gray-300" data-aos="fade-up">
+        Python, Java, C++, JavaScript, SQL, HTML, Visual Studio, Agile, DevOps, SAP, Linux, ServiceNow, Node.js, React, PHP
+      </p>
     </div>
   </section>
 
@@ -128,14 +133,14 @@
   <!-- Speaking -->
   <section id="speaking" class="max-w-4xl mx-auto px-6 py-20 text-center">
     <h2 class="text-3xl font-bold mb-6 text-purple-400" data-aos="fade-right">Speaking</h2>
-      <p class="text-gray-300" data-aos="fade-up"> Behind every great app is a developer who refused to quit debugging. </p>
+    <p class="text-gray-300" data-aos="fade-up">Behind every great app is a developer who refused to quit debugging.</p>
   </section>
 
   <!-- Contact -->
   <section id="contact" class="bg-gray-900 py-20 text-center">
     <h2 class="text-3xl font-bold mb-6 text-purple-400" data-aos="fade-right">Contact</h2>
     <p>Email: <a href="mailto:gnv.drme@gmail.com" class="text-purple-400 hover:underline">gnv.drme@gmail.com</a></p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/geneva-adarme-a3b50036b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" class="text-purple-400 hover:underline">linkedin.com/in/GenevaAdarme</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/geneva-adarme-a3b50036b" target="_blank" class="text-purple-400 hover:underline">linkedin.com/in/GenevaAdarme</a></p>
     <p>GitHub: <a href="https://github.com/GenevaAdarme" target="_blank" class="text-purple-400 hover:underline">github.com/GenevaAdarme</a></p>
     <a href="https://drive.google.com/file/d/1X4jvdPFAQzzPZSmyc0gP9PhUz3dEzDas/view?usp=drive_link" class="mt-6 inline-block px-6 py-3 bg-purple-600 rounded-full text-white font-semibold hover:bg-purple-500 transition">Download Resume</a>
   </section>

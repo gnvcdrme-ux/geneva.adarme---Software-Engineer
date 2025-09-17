@@ -28,11 +28,8 @@
   </nav>
 
   <!-- Hero -->
-  <header class="text-center pt-32 pb-20" id="hero">
-    <img src="https://github.com/gnvcdrme-ux/gndrme/blob/main/okk.jpg" 
-  class="mx-auto w-36 h-36 rounded-full shadow-lg border-4 border-purple-60 object-cover" 
-  data-aos="zoom-in"
-/>
+  <header class="text-center pt-32 pb-20" id="hero"> 
+   
 
     <h1 class="text-5xl font-extrabold mt-6 bg-gradient-to-r from-purple-400 to-pink-500 bg-clip-text text-transparent" data-aos="fade-up">Geneva Adarme</h1>
     
